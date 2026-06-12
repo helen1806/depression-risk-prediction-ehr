@@ -6,7 +6,7 @@ An end-to-end, production-grade machine learning framework for predicting incide
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Standard-orange.svg)](https://xgboost.ai/)
 [![SHAP](https://img.shields.io/badge/Explainability-SHAP-success.svg)](https://github.com/slundberg/shap)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 [![Status](https://img.shields.io/badge/Status-Active_Research-purple.svg)]()
 
 ---
